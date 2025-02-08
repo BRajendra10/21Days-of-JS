@@ -1,1 +1,1 @@
-# 21Days-of-JS
+# 21Days of JS
